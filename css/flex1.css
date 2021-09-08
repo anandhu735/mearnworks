@@ -1,0 +1,24 @@
+.parent{
+    width: 550px;
+    height: 310px;
+    background-color: rgb(218, 240, 21);
+    display: flex;
+}
+.col{
+    width: 50px;
+    height: 300px;
+padding-bottom: 10px;
+}
+.col1{
+    background-color: rgb(19, 0, 128);
+    
+}
+.col2{
+    background-color: rgb(71, 227, 255);
+}
+.col3{
+    background-color: rgb(130, 238, 139);
+}
+.col4{
+    background-color: rgb(163, 63, 24);
+}
